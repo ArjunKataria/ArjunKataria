@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics & Machine learning
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 My linkedin profile linkedin.com/in/arjun-kataria-7873b1123
+- 📫 My linkedin profile is linkedin.com/in/arjun-kataria-7873b1123
 
 <!---
 ArjunKataria/ArjunKataria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
