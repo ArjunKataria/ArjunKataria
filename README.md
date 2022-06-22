@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArjunKataria
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 My linkedin profile is linkedin.com/in/arjun-kataria-7873b1123
 
